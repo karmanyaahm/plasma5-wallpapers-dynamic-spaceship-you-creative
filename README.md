@@ -1,4 +1,10 @@
 # Spaceship You Dynamic Wallpaper - Plasma 5
+
+## Note
+
+This has been updated for Plasma Dynamic Wallpapers v3.x, the v2.x wallpapers are still preserved in a branch named as such.
+
+
 ### Art by [CGP Grey](https://www.patreon.com/posts/spaceship-you-36783999)  
 Size: **3840x2160**  
 This wallpaper uses the position of the **sun** to dynamically change between the day, sunset and night variants.  

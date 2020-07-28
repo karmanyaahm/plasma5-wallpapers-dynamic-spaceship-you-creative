@@ -1,39 +1,30 @@
-{
-  "KPlugin": {
-    "Authors": [
-      {
-        "Email": "karmanyaahm@gmail.com",
-        "Name": "Karmanyaah Malhotra"
-      }
-    ],
-    "Id": "9d0420ba6124a4ba945e33f7571e6c3163968052",
-    "Name": "Spaceship You - Creative"
+[
+  {
+    "SolarAzimuth": 62,
+    "SolarElevation": -3,
+    "Time": "05:00",
+    "CrossFade": true,
+    "FileName": "Desktop 4k_13.jpg"
   },
-  "Wallpaper": {
-    "Preview": "preview.jpg",
-    "Smooth": true,
-    "Type": "solar",
-    "MetaData": [
-      {
-        "Azimuth": 62,
-        "Elevation": -3,
-        "FileName": "Desktop 4k_13.jpg"
-      },
-      {
-        "Azimuth": 90,
-        "Elevation": 20,
-        "FileName": "Desktop 4k_14.jpg"
-      },
-      {
-        "Azimuth": 270,
-        "Elevation": 3,
-        "FileName": "Desktop 4k_12.jpg"
-      },
-      {
-        "Azimuth": 300,
-        "Elevation": -10,
-        "FileName": "Desktop 4k_11.jpg"
-      }
-    ]
+  {
+    "SolarAzimuth": 90,
+    "SolarElevation": 20,
+    "Time": "10:00",
+    "CrossFade": false,
+    "FileName": "Desktop 4k_14.jpg"
+  },
+  {
+    "SolarAzimuth": 270,
+    "SolarElevation": 3,
+    "Time": "19:00",
+    "CrossFade": true,
+    "FileName": "Desktop 4k_12.jpg"
+  },
+  {
+    "SolarAzimuth": 300,
+    "SolarElevation": -10,
+    "Time": "22:00",
+    "CrossFade": false,
+    "FileName": "Desktop 4k_11.jpg"
   }
-}
+]
