@@ -4,6 +4,8 @@
 
 This has been updated for Plasma Dynamic Wallpapers v3.x, the v2.x wallpapers are still preserved in a branch named as such.
 
+To use the wallpaper follow instructions on [Vlad Zahorodnii's "plasma5-wallpapers-dynamic"](https://github.com/zzag/plasma5-wallpapers-dynamic) and download wallpaper.heic from <https://github.com/karmanyaahm/plasma5-wallpapers-dynamic-spaceship-you-creative/releases>
+
 
 ### Art by [CGP Grey](https://www.patreon.com/posts/spaceship-you-36783999)  
 Size: **3840x2160**  
